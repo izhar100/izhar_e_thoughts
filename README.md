@@ -30,13 +30,13 @@ Check out the live deployment [here](https://izharthoughts.vercel.app/).
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/threads_clone.git
+   git clone https://github.com/yourusername/izhar_e_thoughts.git
    ```
 
 2. **Navigate to the project directory**:
 
    ```bash
-   cd threadsclone
+   cd izhar_e_thoughts
    ```
 
 3. **Install dependencies** for both the client and server:
