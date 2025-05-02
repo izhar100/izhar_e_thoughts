@@ -1,12 +1,12 @@
-# ThreadsClone
+# Izhar_e_thoughts
 
 ## About the Project
 
-ThreadsClone is an impressive social media application developed individually in just 7 days. It leverages the power of the MERN (MongoDB, Express, React, Node.js) stack, JWT for authentication, and Socket.IO for real-time chatting. This app empowers users to create accounts, securely log in, and participate in a dynamic social community. Users can create image-rich posts, engage in likes and comments, search, follow, and even engage in real-time messaging.
+Izhar_e_thoughts is an impressive social media application developed individually in just 7 days. It leverages the power of the MERN (MongoDB, Express, React, Node.js) stack, JWT for authentication, and Socket.IO for real-time chatting. This app empowers users to create accounts, securely log in, and participate in a dynamic social community. Users can create image-rich posts, engage in likes and comments, search, follow, and even engage in real-time messaging.
 
 [Watch Live Demo Video](https://youtu.be/VWg6OouqnEo?si=OTfARBvQbyO4IA42)
 
-Check out the live deployment [here](https://threadsclone-kappa.vercel.app).
+Check out the live deployment [here](https://izharthoughts.vercel.app/).
 
 ## Tech Stack
 
